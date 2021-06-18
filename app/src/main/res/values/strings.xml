@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BD Rice</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="selectDivision">Select Your Division</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="select_division">Select Division</string>
+    <string name="errorText">"*Password must be 6-20 characters,
+    *At least two following: letters(a-z), number(0-9),symbols.
+    "</string>
+</resources>

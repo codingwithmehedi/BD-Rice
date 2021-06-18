@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TODO:Bangladesh all DIVISION Name -->
+    <string name="division">Division</string>
+    <string-array name="select_division">
+        <item>"Barisal"</item>
+        <item>"Chittagong"</item>
+        <item>"Dhaka"</item>
+        <item>"Khulna"</item>
+        <item>"Mymensingh"</item>
+        <item>"Rajshahi"</item>
+        <item>"Rangpur"</item>
+        <item>"Sylhet"</item>
+    </string-array>
+
+    <string name="Barisal">Barisal</string>
+    <string name="Chittagong">Chittagong</string>
+    <string name="Dhaka">Dhaka</string>
+    <string name="Khulna">Khulna</string>
+    <string name="Mymensingh">Mymensingh</string>
+    <string name="Rajshahi">Rajshahi</string>
+    <string name="Rangpur">Rangpur</string>
+    <string name="Sylhet">Sylhet</string>
+</resources>
